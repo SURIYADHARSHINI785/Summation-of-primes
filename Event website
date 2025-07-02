@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title>Events</title>
+<link rel="icon" href="img/data.png">
+</head>
+<body bgcolor="black" style="color:white">
+    <center>
+    <h1>Upcoming Events 📅</h1>
+    <p>Don't miss any upcoming events,stay tuned!</p>
+    </center>
+    <hr>
+
+
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae dolore, ducimus quidem explicabo nulla fuga consectetur voluptatibus reprehenderit error eius vero, sunt ut exercitationem, molestias inventore. Sunt molestiae cupiditate ullam consequatur voluptas eos cumque autem aperiam maxime reprehenderit tempore est doloremque accusantium quasi voluptate minima possimus, culpa porro maiores repellendus obcaecati officiis pariatur voluptatem? Neque laudantium quisquam reprehenderit placeat, dolore natus omnis nulla reiciendis tempora? Deleniti, molestiae. Eveniet amet nobis facere expedita distinctio culpa sequi, debitis natus, quod quisquam omnis animi fugiat quae eligendi ullam veniam. Optio dolores nostrum, ut nobis vero neque ducimus non suscipit omnis beatae officia quidem?
+    </p>
+    <center>
+    <img src="img/event1.png">
+    <h1>Photo Gallery Events</h1>
+    <h2>Free entry|Free food |Pets not allowed</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure quas at consequatur ipsa eaque laboriosam officiis maiores sit vero doloremque atque fuga sapiente ea nesciunt architecto excepturi delectus, iste fugit similique. Quod, repellat, dolorum facilis beatae repudiandae odit libero odio ipsam nesciunt delectus dolore iure molestiae pariatur vero. Dolorem doloribus velit omnis animi, rerum aperiam debitis, odio adipisci nihil provident cumque pariatur iusto consequuntur hic exercitationem iure expedita eos. Ut, tempore sint quam sunt, mollitia eos cumque maxime rem possimus optio a nulla voluptatibus saepe minima nobis ducimus non dolorum voluptatem enim obcaecati soluta qui, doloribus provident. Ullam porro nam suscipit dicta illum, officia eum quisquam deleniti accusantium sint consequatur veritatis nihil laudantium, obcaecati voluptatum voluptates laboriosam dolores, deserunt temporibus ut rerum? Porro ipsam perspiciatis magni repudiandae amet fugiat voluptas suscipit a. Saepe iste illum fuga dolorum aut nam inventore error, autem aperiam a, molestias perspiciatis maxime minima exercitationem odit.</p>
+    </center>
+
+    <center>
+    <img src="img/event2.png">
+    <h1>
+        <a href="https://www.flipkart.com/">Fashion store</a>
+        <h1>Free entry|Free food |Pets not allowed</h1>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid eligendi dignissimos vero nihil quam iure sapiente, cumque vel cupiditate! Deserunt, facilis temporibus labore veniam rem autem. Similique dolore, ad nobis corrupti, corporis minus repellat sunt quod earum exercitationem natus sint tenetur quae beatae distinctio commodi, impedit eius soluta! Accusamus, voluptatum?</p>
+        
+        <hr>
+        <h1>Contact</h1>
+        <h2>+91 1234567891|eventcollab@gmail.com</h2>
+        <h3>9th street avenue park,trichy,625620</h3>
+        </h1>
+    
+    </center>
+
+</body>
+</html>
